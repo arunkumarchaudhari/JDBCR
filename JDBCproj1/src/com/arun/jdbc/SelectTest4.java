@@ -1,6 +1,6 @@
 package com.arun.jdbc;
 
-/* JDBC App that gets employee details from EMPS DB table based on given 3 designations
+/* JDBC App that gets employee details from EMPS DB table based First matched char entered by user.
 	version: 1.0
 	author: Arun_KC
 	date: 15/08/2022
