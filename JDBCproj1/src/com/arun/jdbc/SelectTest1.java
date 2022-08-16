@@ -4,7 +4,7 @@ package com.arun.jdbc;
  * we are displaying deptno, name and facultyid form database.
  * author:Arun KC
  * version: 1.0
- * Date: 16Aug 2022
+ * Date: 16 Aug, 2022
  */
 
 import java.sql.Connection;
