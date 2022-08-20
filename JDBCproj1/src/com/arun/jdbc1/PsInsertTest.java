@@ -11,7 +11,7 @@ public class PsInsertTest {
 	private static final String STUDENT_INSERT_QUERY="INSERT INTO STUDENT VALUES(?,?,?,?)";
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Scanner sc=null;
 		Connection con=null;
 		PreparedStatement ps =null;
