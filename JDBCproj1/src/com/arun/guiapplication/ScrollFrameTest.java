@@ -247,3 +247,4 @@ public class ScrollFrameTest extends JFrame implements ActionListener,WindowList
 		
 	}
 }
+
